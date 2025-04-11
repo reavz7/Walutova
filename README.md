@@ -37,6 +37,7 @@ Works seamlessly on both desktop and mobile devices.
 ## Used libraries
 
 🛠️ Dependencies
+
 React ^19.0.0 – Core UI library
 
 React DOM ^19.0.0 – DOM bindings for React
@@ -50,6 +51,7 @@ React Chart.js 2 ^5.3.0 – Optional charting alternative
 React Icons ^5.5.0 – Ready-to-use icons for UI
 
 🧰 Dev Dependencies
+
 Vite ^6.2.0 – Lightning-fast frontend build tool
 
 Tailwind CSS ^3.4.17 – Utility-first CSS framework
