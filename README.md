@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/kamil/eatcheap"><img src="assets/logo-walutova.png" alt="Walutova logo" width="200"></a>
-  <br>    
+  <a href="https://github.com/reavz7/Walutova"><img src="src/assets/logo-walutova.png" alt="Walutova logo" width="200"></a>
+  <br>          
   Walutova
   <br>
   
