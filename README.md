@@ -36,11 +36,6 @@ Works seamlessly on both desktop and mobile devices.
 
 ## Used libraries
 
-🛠️ Dependencies
-
-React ^19.0.0 – Core UI library
-
-React DOM ^19.0.0 – DOM bindings for React
 
 Axios ^1.8.4 – For fetching data from NBP API
 
@@ -50,21 +45,7 @@ React Chart.js 2 ^5.3.0 – Optional charting alternative
 
 React Icons ^5.5.0 – Ready-to-use icons for UI
 
-🧰 Dev Dependencies
-
-Vite ^6.2.0 – Lightning-fast frontend build tool
-
-Tailwind CSS ^3.4.17 – Utility-first CSS framework
-
-ESLint ^9.21.0 – Linting for cleaner code
-
-eslint-plugin-react-hooks, eslint-plugin-react-refresh, @eslint/js – ESLint plugins for React
-
-PostCSS ^8.5.3 & Autoprefixer ^10.4.21 – For processing Tailwind CSS
-
-@vitejs/plugin-react ^4.3.4 – React plugin for Vite
-
-@types/react, @types/react-dom – TypeScript types for React
+Tailwind CSS ^3.4.17 – Utility-first CSS framework 
 
 ## How To Use
 
